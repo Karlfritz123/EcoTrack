@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EcoTrack</string>
+    <string name="ecotrack_logo">EcoTrack Logo</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="creat_account">Creat Account</string>
+</resources>
